@@ -8,5 +8,3 @@
 * Minecraft Server + Proxy Setup
 * Domain Configuration
 * Server Panel Setup
-
-**I currently only work freelance and do not work for anyone in particular.**
